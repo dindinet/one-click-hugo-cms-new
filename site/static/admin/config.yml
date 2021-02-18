@@ -2,13 +2,7 @@ backend:
   name: github
   repo: dindinet/kaldi-coffee-cms
   branch: master
-media_library:
-  name: cloudinary
-  config:
-    cloud_name: seuk
-    api_key: 873885784827685
-    username: sembcorpenergyuk@gmail.com
-    multiple: false 
+
 
 
 collections: # A list of collections the CMS should be able to edit
